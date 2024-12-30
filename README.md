@@ -1,1 +1,1 @@
-# heart-disease-prediction--machine-learning-project
+# Heart-disease-prediction using machine learning project
